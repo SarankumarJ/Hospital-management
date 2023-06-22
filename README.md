@@ -159,6 +159,7 @@ function App() {
 export default App;
 ```
 ## Output:
+![hospital](https://github.com/SarankumarJ/Hospital-management/assets/94778101/7dc177b2-dac2-4c0c-931c-8e1efcf5a427)
 
 
 ## Result:
